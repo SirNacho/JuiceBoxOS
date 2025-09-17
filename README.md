@@ -3,7 +3,7 @@ Welcome! This is a public repo containing my source code for JuiceBoxOS. The goa
 # JuiceBoxOS Requirements
 
 ## Recommended Setups and Required Dependencies
-- Recommended Operating System to develop on: Ubuntu
+- Recommended Operating System to develop on: Ubuntu on X86
 - Required Dependencies:
   - build-essential
   - bison
