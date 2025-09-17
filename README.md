@@ -35,6 +35,7 @@ Then, run compile.sh to make a .iso of the OS and also run the .iso using qemu.
 
 # To-Do List:
 - implement terminal scrolling
+- Create a Makefile
 - implement GDT
 - implement interrupts
 - implement shell
