@@ -13,10 +13,12 @@ Welcome! This is a public repo containing my source code for JuiceBoxOS. The goa
   - libmpfr-dev
   - texinfo
   - libisl-dev
+  - qemu-system
+  - qemu-utils
 
 ### Command to install the dependencies on Ubuntu
 ```
-sudo apt install build-essential bison flex libgmp3-dev libmpc-dev libmpfr-dev texinfo libisl-dev
+sudo apt install build-essential bison flex libgmp3-dev libmpc-dev libmpfr-dev texinfo libisl-dev qemu-system qemu-utils
 ```
 
 ## Installing Cross Compiler
